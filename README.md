@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<!--
+<div id="header" align="center>
+  <img src="https://scontent.fsof8-1.fna.fbcdn.net/v/t1.15752-9/313394178_1087009981957819_7290188975045779082_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=dSHOx7hZGiwAX-tB1ER&_nc_ht=scontent.fsof8-1.fna&oh=03_AdRRXxmNfM-5XRYnVL7nupYcMd60J2l5XifSX9xNVlBXZw&oe=6383C100" width="100"/>
+</div>
 **danevairena/danevairena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
