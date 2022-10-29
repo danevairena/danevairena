@@ -1,4 +1,4 @@
-<img width="75%" align="center" src="https://cdn.githubraw.com/danevairena/danevairena/main/hello.png"></img>
+<img height="350em" width="83%" align="center" src="https://cdn.githubraw.com/danevairena/danevairena/main/hello.png"></img>
 
 <h2>My GitHub History:</h2>
 <a href="https://github.com/danevairena">
