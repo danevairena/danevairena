@@ -7,7 +7,11 @@
 🚗 Love traveling<br>
 📩 You can contact me on de.luxe9997@gmail.com<br><br>
 
-
+<h2>My GitHub History:</h2>
+<a href="https://github.com/danevairena">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danevairena&show_icons=false&bg_color=c2abbc,a4839a,62465c&title_color=fff&text_color=fff" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danevairena&bg_color=c2abbc,a4839a,62465c&title_color=fff&text_color=fff&layout=compact" />
+</a>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
