@@ -1,7 +1,7 @@
 <img height="350em" width="100%" align="center" src="https://cdn.githubraw.com/danevairena/danevairena/main/hello.png"></img>
 <h2>More about me:</h2>
 🏠I'm from Stara Zagora, Bulgaria<br>
-⚙️Engineering student in Computer Systems & Technologies<br>at Technical University of Sofia, branch Plovdiv.<br>
+⚙️Engineering student in Computer Systems & Technologies<br>  at Technical University of Sofia, branch Plovdiv.<br>
 🎨 Creative thinking and fast learner<br>
 🧩 Currently learning new skills<br>
 🚗 Love traveling<br>
