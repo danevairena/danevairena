@@ -36,7 +36,7 @@ graduated from Technical University of Sofia, branch Plovdiv.<br>
 ### 🛠️ Back-end
 <p align="left">
   <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/node.js/339933" width="40" height="40" alt="nodejs"/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
