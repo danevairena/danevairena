@@ -39,9 +39,7 @@ graduated from Technical University of Sofia, branch Plovdiv.<br>
     <img src="https://cdn.simpleicons.org/node.js/339933" width="40" height="40" alt="nodejs"/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
-         width="40" height="40" 
-         style="filter: invert(1);" />
+    <img src="https://cdn.simpleicons.org/express/ffffff" width="40" height="40" alt="express"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
