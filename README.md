@@ -34,12 +34,12 @@ graduated from Technical University of Sofia, branch Plovdiv.<br>
 ---
 
 ### 🛠️ Back-end
-<p align="left">
+p align="left">
   <a href="https://nodejs.org/en" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/node.js/339933" width="40" height="40" alt="nodejs"/>
+    <img src="https://cdn.simpleicons.org/node.js/339933" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/express/ffffff" width="40" height="40" alt="express"/>
+    <img src="https://cdn.simpleicons.org/express/ffffff" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
