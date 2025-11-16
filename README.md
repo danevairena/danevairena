@@ -80,8 +80,3 @@ graduated from Technical University of Sofia, branch Plovdiv.<br>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=danevairena&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danevairena&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danevairena&theme=tokyonight&hide_border=true" />
-</p>
