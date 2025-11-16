@@ -72,3 +72,16 @@ graduated from Technical University of Sofia, branch Plovdiv.<br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danevairena&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danevairena&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=danevairena&theme=tokyonight&hide_border=true" />
+</p>
