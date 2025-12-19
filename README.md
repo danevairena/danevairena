@@ -2,7 +2,6 @@
 <h2>More about me:</h2>
 🎓 Software engeener in Computer Systems & Technologies<br>  
 graduated from Technical University of Sofia, branch Plovdiv.<br>
-📍 Based in Stara Zagora, Bulgaria<br>
 🎨 Creative thinking<br>
 🧠 Fast learner — from design tools to full-stack technologies<br>
 🧩 Currently learning new skills<br>
