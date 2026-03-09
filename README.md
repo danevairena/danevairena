@@ -39,66 +39,48 @@ Tech: React, Node.js, Express, MySQL, JWT
 
 <h2>Skills and tools:</h2>
 
-### 💻 Languages
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</p>
+## 🛠 Tech Stack
 
----
+**Languages**
+- Java
+- JavaScript
+- Python
+- C++
+- SQL
 
-### 🛠️ Backend
-<p align="left">
-<img src="https://cdn.simpleicons.org/spring/6DB33F" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/node.js/339933" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/express/ffffff" width="40" height="40"/>
-</p>
+**Backend**
+- Spring Boot
+- Node.js
+- Express.js
+- REST API Development
 
----
+**Frontend**
+- React
+- HTML5
+- CSS3
+- Bootstrap
 
-### 💻 Frontend
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-</p>
+**Databases**
+- PostgreSQL
+- MySQL
 
----
+**Testing**
+- Mockito
+- WireMock
+- Testcontainers
+- pytest
 
-### 🗄️ Databases
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</p>
+**Tools**
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
 
----
-
-### 🧪 Testing
-<p align="left">
-<img src="https://cdn.simpleicons.org/junit5/25A162" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/mockito" width="40" height="40"/>
-</p>
-
----
-
-### ⚙️ Tools
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### 🎨 Design
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-</p>
+**Design & Documentation**
+- Figma
+- BPMN
+- ER Diagrams
 
 ---
 
