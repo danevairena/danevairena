@@ -37,8 +37,6 @@ Tech: React, Node.js, Express, MySQL, JWT
 
 ---
 
-<h2>Skills and tools:</h2>
-
 ## 🛠 Tech Stack
 
 **Languages**
