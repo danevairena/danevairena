@@ -1,7 +1,6 @@
 <img height="350em" width="100%" align="center" src="https://cdn.githubraw.com/danevairena/danevairena/main/hello.png"></img>
 
 Hi 👋 I'm Irena
-![](https://komarev.com/ghpvc/?username=danevairena&color=blue)
 
 🎓 Software Engineer in **Computer Systems & Technologies**<br>
 Technical University of Sofia — Plovdiv branch<br>
@@ -105,7 +104,8 @@ Tech: React, Node.js, Express, MySQL, JWT
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danevairena&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danevairena&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danevairena&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danevairena&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
