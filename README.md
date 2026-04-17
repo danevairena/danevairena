@@ -5,7 +5,7 @@ Hi 👋 I'm Irena
 🎓 Software Engineer in **Computer Systems & Technologies**<br>
 Technical University of Sofia — Plovdiv branch<br>
 🎨 Creative thinking<br>
-🧠 Fast learner with experience across **frontend, backend, and system design**
+🧠 Fast learner with experience across **frontend, backend, and system design**<br>
 🧩 Currently learning new skills<br>
 🚗 Love traveling and exploring new technologies<br>
 📩 You can contact me on **de.luxe9997@gmail.com**<br><br>
